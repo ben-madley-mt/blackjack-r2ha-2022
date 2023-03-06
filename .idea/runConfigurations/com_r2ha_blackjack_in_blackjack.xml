@@ -3,7 +3,7 @@
     <module name="blackjack" />
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="com.r2ha.blackjack.*" />
+        <option name="PATTERN" value="com.r2ha.blackjack.adapter.in.console.*" />
         <option name="ENABLED" value="true" />
       </pattern>
     </extension>
